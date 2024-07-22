@@ -108,7 +108,7 @@ body {
 }
 
 .MuiAccordionDetails-root {
-    padding: 8px 75px 16px;
+    padding: 8px 75px 16px !important;
 }
 
 /* Animations */
