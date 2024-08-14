@@ -44,15 +44,16 @@ To create a production build of the app:
 This will create an optimized production build in the build directory.
 
 ### Project Structure
-src/: Contains all source code.
-components/: Reusable React components.
-pages/: Page components for different routes.
-styles/: Custom styles and theme configurations.
-App.tsx: Main application component.
-index.tsx: Entry point of the React app.
-public/: Static assets and HTML file.
-package.json: Project metadata and dependencies.
-tsconfig.json: TypeScript configuration.
+
++ #### src/: Contains all source code.
+- #### components/: Reusable React components.
+* ##### pages/: Page components for different routes.
++ #### styles/: Custom styles and theme configurations.
++ #### App.tsx: Main application component.
+* #### index.tsx: Entry point of the React app.
+- #### public/: Static assets and HTML file.
++ #### package.json: Project metadata and dependencies.
+- #### tsconfig.json: TypeScript configuration.
 
 ### License
 This project is licensed under the MIT License.
